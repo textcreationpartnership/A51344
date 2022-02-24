@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More last words and sayings of the True Protestant Elm-board, or, A Full answer to a late pretended sober vindication of the Dr. and the Board</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51344</idno>
+            <idno type="STC">Wing M2706</idno>
+            <idno type="STC">ESTC R41514</idno>
+            <idno type="EEBO-CITATION">31355478</idno>
+            <idno type="OCLC">ocm 31355478</idno>
+            <idno type="VID">110491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110491)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1747:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More last words and sayings of the True Protestant Elm-board, or, A Full answer to a late pretended sober vindication of the Dr. and the Board</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Hadwel,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Sheppard, Fleetwood, --  Sir, 1634-1698.</term>
+               <term>Burnet, Gilbert, 1643-1715.</term>
+               <term>Rymer, Thomas, 1641-1713.</term>
+               <term>Settle, Elkanah, 1648-1724.</term>
+               <term>Sober vindication of the reverend Dr. and the harmless board.</term>
+               <term>Last words and sayings of the true-Protestant elm-board.</term>
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110491:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>More laſt Words and Sayings of the <hi>True Proteſtant Elm-Board:</hi> or, a full Anſwer to a late pretended Sober Vindication of the Dr. and the Board.</head>
+            <p>I Am ſomething amaz'd that the <hi>Vindicator</hi> ſhould call my harmleſs Diſcourſe a Prophane Paſquil; for I would have him to know that he has little reaſon to ſtigmatize ſo innocent a Paper with ſo odious an Epithet, unleſs it is becauſe <hi>F. Sh</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>s name is to it; but he that will call him a Patron of Wit and Criti<g ref="char:EOLhyphen"/>ciſm, or magnifie the Doctors Loyalty to his Prince, and Fidelity to his Maſter, will call any thing a Prophane Paſquil.</p>
+            <p>As for his ſecond Paragraph, there are almoſt as many contradictions in it, as there are in <hi>Oates</hi>'s Narrative; for he ſays that the Board is yet living, and at the ſame time that it was never born. Let the mercenary Inhabitants of <hi>Kent-ſtreet</hi> Fib and Swear on, for one day truth and reaſon will riſe up in judgment againſt them. Beſides, Mr. Vindicator, by my truly your love is a million, for I can produce a company of good ſubſtantial Cripples and Broom-men, that can prove the Board to be as dead as a Her<g ref="char:EOLhyphen"/>ting, or rather a door-Nail; altho it's confeſs'd that the Ghoſt of the Board has been ſeen to walk, and it is generally believed, that it has hid ſome Shavings thereabouts. As for the nativity of the Board, that is undeniable, for <hi>Gadbury</hi> has caſt it; and who<g ref="char:EOLhyphen"/>ſoever ſays, that it was not a Dreſſer-Board in the Kitchin of Sh. <hi>B<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>l,</hi> muſt have this ſuſpicion, that Sh. <hi>B<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>l</hi> never had a Dreſſer-Board nor a Kitchin: ſo that it is evident that the Board was born, and is now as dead as <hi>Beddingfield</hi> the Jeſuite, altho Sir <hi>W. W.</hi> (ſo eminent for burning Mother <hi>Lowſe</hi> inſtead of the Virgin <hi>Mary</hi>) caught him plot<g ref="char:EOLhyphen"/>ting above ground after he was buried.</p>
+            <p>In the third Paragraph of his <hi>Vindication,</hi> he ſays I term the Dr. a Reverend Scot, for which I beg his pardon; for I will never do ſo any more: but he proceeds and af<g ref="char:EOLhyphen"/>firms poſitively, that the Dr. does never diſturb the ſick, but rather makes them merry and jocoſe. Now certainly this is a very great diſturbance, to make men laugh and giggle, that ſhould be thoughtful and ſerious. Nor is his Vindication of Dr. <hi>T. O.</hi> leſs non-ſenſical and impertinent; for he that will Teſtifie through a Key-hole, will Swear through an Inch-board. I'll be judg'd by the Dr. himſelf elſe.</p>
+            <p>But is it ſo ridiculous an action for the Dr. to kiſs a Board? I am ſure it had been letter for him if he had married one. As for his ſitting down upon him without a Cuſhion, he does the ſame thing every night upon as hard a Board, at the <hi>Nags-head-Club.</hi> As for the Gentleman that loves Cuſtard, let me tell you he deſerves to have it thrown into his Face, for telling ſo impudent an untruth; for <hi>Elk. Settle</hi> that loves Cuſtard as well as himſelf, can teſtifie, that the reſt of the laſt words and ſayings of the Proteſtant Elm Board were theſe; for he took the Dr. by the hand, and ſaid, <hi>Draw near and comfort me, for I have been a very ſinful Board.</hi>
+            </p>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>Here is a Book that I have written, <hi>The whole duty of Boards,</hi> read that, for it will inſtruct and edifie you.</p>
+            </sp>
+            <sp>
+               <speaker>Board.</speaker>
+               <p>Ah Doctor, I am ſorry that I muſt dye before the times turn.</p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>Come, come, chear up, you may live till to morrow, and I hope they will turn before that time: However let this be your comfort, that you are going to meet <hi>St. Colledg.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Board.</speaker>
+               <p>Whither I hope you will all follow me.</p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>Farewel then, for I muſt go to the <hi>Nags-head-Club.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Board.</speaker>
+               <p>Pray Dr. ſtay a little longer.</p>
+            </sp>
+            <sp>
+               <speaker>Dr.</speaker>
+               <p>I cannot in truth, for delays are dangerous: ud's me, they will ſcore me up ma<g ref="char:EOLhyphen"/>ny bumpers.</p>
+            </sp>
+            <p>The Board was ſomething troubled that the Dr. ſhould make ſuch haſte away, but conſidering it was to carry on the good Old Cauſe, it was contented and ſatisfied, and deſired to be remembred kindly to Sir <hi>Thomas Creſwel,</hi> Sh. Sh. <hi>Pilk.</hi> and <hi>Tho. Fir. cum <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ultis aliis.</hi>
+            </p>
+            <p>Now let the world judg whether or no I have impoſed upon them, or wreſted the proſe and meaning of the laſt words and ſayings of the <hi>Proteſtant Elm-Board:</hi> for I proteſt I am ſo much a hater of falſe Hiſtory, that rather than I would be thought one, would gladly ſuffer red hot Iron with the Board.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>S. HADWEL.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
